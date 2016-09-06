@@ -1,4 +1,4 @@
-layout_spectrum: 0.6346526
+typography_spectrum: 0.715784
 color:
   saturation: 0.9983888
   brandStrength: 0.7218563
@@ -10,5 +10,11 @@ color:
     - '#F4AFAB'
     - '#F4EEA9'
     - '#F4F482'
-typography_spectrum: 0.715784
+layout_spectrum: 0.6346526
 name: Olgapopova.net
+navigation:
+  - name: >-
+      The Best Real Estate Representation of Buyers and Sellers in the Black
+      Hills Area Of South Dakota
+    url: 'https://www.olgapopova.net'
+    type: external
